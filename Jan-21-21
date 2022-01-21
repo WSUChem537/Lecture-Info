@@ -2,14 +2,17 @@
 In Class today we covered the following:
 
 1) download and visualization of your xyz file from packmol using Avogadro. Avogadro can be downloaded from https://avogadro.cc
+You can install avogadro on your laptop and try to install on your home directory on Kamiak. If you install Avogardro on your laptop you will need to move your xyz files back and forth from Kamiak and onto your laptop, etc. If you install on Kamiak, then you will need to use the: ssh -Y username@kamiak.wsu.edu or ssh -X username@kamiak.wsu.edu in order for the graphics to come through the connection. Let me know if you have any problems with this.  Packmol automatically outputs the xyz file into a form that Avogadro can open. 
+2) I also asked you to download VMD which will be our primary visualizer for output from Monte Carlo or Molecular Dynamics simulations - VMD can be downloaded from here: https://www.ks.uiuc.edu/Development/Download/download.cgi?PackageName=VMD  The same advice for using VMD holds associated with using it on your laptop versus on Kamiak. 
+3) make sure you can open your liquid Ar simulation box made with packmol using Avogadro. Ensure it has the correct density as liquid Ar at the temperature or pressure that you have chosen (so that it is actually a liquid). 
+4) I then introduced the concepts of potential energy functions that describe the fundamental interactions WITHIN a molecule (this is the intramolecular potential energy function) - this included harmonic bond stretches and angle bending as well as the coulombic interaction. 
+5) I recommend purchasing Chris Cramers Essentials of Computational Chemistry (links to that book and Frank Jensen's book in the General repository readme.md) and I have uploaded the first 2 chapters of his book to help get you started. That PDF is in the general repository.
 
 
 
 **TO DO OVER THE WEEKEND**
 
-
-
-
-Ar Lennard-Jones potentials can be found here:
-http://www.sklogwiki.org/SklogWiki/index.php/Argon
+1) read Chapters 1-2 of Cramers book
+2) We will be going over lennard jones and other types of INTERMOLECULAR potentials for Ar liquid on Monday - you can learn quite a bit about liquid Ar and available potentials here: http://www.sklogwiki.org/SklogWiki/index.php/Argon
+3) We will be plotting these potentials using python in jupyter notebooks on monday, so please make sure you have python and jupyter notebooks installed on your laptop before class.
 
