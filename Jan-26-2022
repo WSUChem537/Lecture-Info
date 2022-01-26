@@ -1,4 +1,12 @@
 For today's lecture:
 
 1) you will work in small groups to work on plotting functions for HW#2
-2) we will review energy minimization and begin on putting both the xyz and FF information into an input file for Gromacs and LAMMPS
+2) we will review energy minimization and begin on putting both the xyz and FF information into an input file for Gromacs and LAMMPS.
+  -i have uploaded a pdf that reviews the steepest descent method
+3) online materials for lammps:
+  -introductiom to LAMMPS input file: https://docs.lammps.org/99/basics.html
+  -introduction to Gromacs input files: https://manual.gromacs.org/documentation/5.1/user-guide/getting-started.html
+  -some other web information associated with energy minimization in Gromacs is: https://manual.gromacs.org/documentation/2019/reference-manual/algorithms/energy-minimization.html
+  -web information associated with energy minimization in LAMMPS is: https://docs.lammps.org/minimize.html
+  
+  
