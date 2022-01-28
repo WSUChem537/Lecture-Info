@@ -1,0 +1,3 @@
+Today we will go over the structure of LAMMPS input files. The documentation for LAMMPS commands is at: https://docs.lammps.org/atom_style.html
+
+We will submit our first energy minimization for an example given to use (isobutane) to learn about the submission process, then we will construct our own input file for the Ar system.
