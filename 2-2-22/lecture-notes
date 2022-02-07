@@ -1,1 +1,11 @@
 
+Today we will go over:
+
+
+1) visualization of the energy minimization of your isobutane molecule, and Ar box using VMD
+2) discussion of the LAMMPS output file
+3) the basic workflow of how a molecular dynamics simulations work (see pptx files uploaded)
+  -for information on periodic boundary conditions see: https://en.wikibooks.org/wiki/Molecular_Simulation/Periodic_Boundary_Conditions  (we will discuss this) and also https://computecanada.github.io/molmodsim-md-theory-lesson-novice/04-Periodic_Boundary/index.html  
+  -for understanding programming of periodic boundary conditions and simple MD codes see: https://www.youtube.com/watch?v=GR3pYC6dBEs
+  -the wikipedia entry for MD is very good and covers a number of the topics we will discuss: https://en.wikipedia.org/wiki/Molecular_dynamics
+  
