@@ -1,4 +1,4 @@
-Today (and friday) we will discuss ab-initio molecular dynamics and introduce two papers that demonstrate its application in two different contexts: reaction mechanisms and spectroscopy.
+Today (and Monday) we will discuss ab-initio molecular dynamics and introduce two papers that demonstrate its application in two different contexts: reaction mechanisms and spectroscopy.
 
 In lecture we will review ab-initio molecular dynamics (also known as born-oppenheimer AIMD) vs. car-parinello (CPMD) ab-initio molecular dynamics (which approximates born-oppenheimer behavior), and briefly describe non-born-oppeheimer MD as well. 
 
